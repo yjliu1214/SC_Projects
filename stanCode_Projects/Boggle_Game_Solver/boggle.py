@@ -22,8 +22,9 @@ def main():
 			print('Illegal input!')
 			break
 		else:
-			rows.lower()
-			letters += rows.split(' ')
+			letters += rows.split()
+			for i in range(len(letters)):
+				letters[i] = letters[i].lower()
 	if len(letters) == 16:
 		global dictionary
 		dictionary = read_dictionary()
