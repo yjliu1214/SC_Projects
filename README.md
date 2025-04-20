@@ -7,7 +7,7 @@ This repository holds my programming projects done during the period of stanCode
 ### Breakout game
 * A classic breackout game built with Campy module.
 * View Code: [Link](https://github.com/yjliu1214/SC_Projects/blob/main/stanCode_Projects/Break_Out_Game/breakout.py)
-* Demo Video:[Link]
+* Demo Video:[Link](https://drive.google.com/file/d/1xNqSWxJNg68wit85L9Lpw-4woZc4u21P/view?usp=sharing)
 
 ### Babynames
 * A python-based tool that visualizes the popularity of English names in the U.S. from the 1900s to the 2010s. Users can enter a name to see its ranking trend over time.
@@ -17,7 +17,6 @@ This repository holds my programming projects done during the period of stanCode
 ### Boggle Solver
 * A high-speed solver that identifies all vaild words on any Boggle board
 * View Code: [Link](https://github.com/yjliu1214/SC_Projects/blob/main/stanCode_Projects/Boggle_Game_Solver/boggle.py)
-* Demo Video:[Link]
 
 ### Image Cleaner
 * A program removes unwanted people from photos by comparing multiple images taken from the same angle
